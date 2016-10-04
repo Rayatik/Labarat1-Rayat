@@ -120,7 +120,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Sub Eq_Sol(a() As Double, b() As Double, x() As Double, n As Integer)
-Dim L(10, 10) As Double
+Dim L(10, 11) As Double
 Dim R(10, 10) As Double
 Dim Y(10) As Double
 Dim i As Integer, j As Integer, k As Integer
